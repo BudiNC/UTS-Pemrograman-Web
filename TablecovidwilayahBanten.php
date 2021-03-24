@@ -1,6 +1,6 @@
 <?php
 echo "<marquee><h1>Data Pemantaun Covid19 wilayah Banten M.Budi Nurcahyono/181011401603</h1></marquee>"; 
-	echo "Per ";;
+	echo "Per ";
 	echo date('d-F-Y');
 	echo date(' h:i:s A');
 echo "<center>";
