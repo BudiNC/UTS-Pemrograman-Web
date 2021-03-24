@@ -10,7 +10,7 @@
 
 		$data = "\n$nm_wilayah|$jml_positif|$jml_dirawat|$jml_sembuh|$jml_meninggal|$operator|$nim_mhs";
 
-		$fh = fopen("datapasien.txt", "w");
+		$fh = fopen("datapasiencovid19.txt", "w");
 		fwrite($fh, $data);
 
 		fclose($fh);
