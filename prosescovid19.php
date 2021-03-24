@@ -14,5 +14,5 @@
 		fwrite($fh, $data);
 
 		fclose($fh);
-		print("Data Sudah Disimpan Silahkan Di Cek Kembali Terima Kasih <br> <a href='index.php'");;
+		print("Data Sudah Disimpan Silahkan Di Cek Kembali Terima Kasih <br> <a href='index.php'");
 ?>
